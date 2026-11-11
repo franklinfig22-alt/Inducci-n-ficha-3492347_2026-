@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Inducción SENA",
+  "description": "Herramienta interactiva para el seguimiento del proceso de inducción, aprendizaje de normativa, símbolos institucionales y evaluación formativa del SENA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
